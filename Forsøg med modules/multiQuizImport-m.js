@@ -1,0 +1,1 @@
+import {questions, score} from './multiQuiz.js'
